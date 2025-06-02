@@ -30,7 +30,7 @@ In this section where i showcase my [projects]()
 
 ### 🛠️ Tools
 
-- Language : MySQL, Javascript, HTML, CSS, PHP
+- Language : Javascript, HTML, CSS, PHP
 - Framework : React, Bootstrap, Laravel
 - Database : MySQL, HeidiSQL
 - Software Tools : Visual Studio Code, Laragon, GitBash
