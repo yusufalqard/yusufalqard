@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Introducing Myself
 
-Hello, I'm Yusuf Al Qardhawi. Full Stack Developer with expertise in Web Design.
+Hello, I'm Yusuf Al Qardhawi. Junior Full Stack Developer at Web Design.
 
-- Create responsive website design
-- Querying data using MySQL from website and input data users
-- Develop web design with Visual Studio Code
+- Create responsive website design using framework libraries
+- Querying data using MySQL from website and input data users mostly
 - Develop web application using Agile Methodology
+- Testing SQL Injection before upload into live server
 
 ### 💼 Projects
 
@@ -35,28 +35,14 @@ In this section where i showcase my [projects]()
 - Database : MySQL, HeidiSQL
 - Software Tools : Visual Studio Code, Laragon, GitBash
 
-### 🪪 Verified Certification and Additional Skills
+### 🪪 Verified Certification and Additional Skills [ON-GOING]
 
 - [Codepolitan Learn HTML - Basic Level](https://codepolitan.com/c/MQVTJ0I)
 - [Codepolitan Learn CSS - Basic Level](https://codepolitan.com/c/WXYUD5M)
 - [Codepolitan Learn using Git - Basic Level](https://codepolitan.com/c/8PT0MXO)
 - [Codepolitan Learn using Git - Intermediate Level](https://codepolitan.com/c/C9VSEWU)
 - [Dicoding Indonesia Learn Javascript Language - Basic Level](https://www.dicoding.com/certificates/MEPJN2E9JX3V)
-- [Codepolitan Learn Laravel 11 - Basic Level]()
-- [Codepolitan Learn React.js Fundamental - Basic Level]()
-- [Codepolitan Learn PHP]()
-- [Codepolitan Learn Object-Oriented Programming using PHP - Basic Level]()
-- [Codepolitan Learn Object-Oriented Programming using PHP - Intermediate Level]()
-- [Codepolitan Develop Front-End website with jQuery and Legendary LibraryJS]()
-- [Codepolitan Learn React.js 101 Function - Create and Use Component on some study case]()
-- [Codepolitan Learn React.js State Function - Develop interface changes with Event Handler]()
-- [Codepolitan Learn using React.js to create Split Bill apps]()
-- [Codepolitan Learn React.js using Hook Effect and Data Fetching]()
-- [Codepolitan Develop Restful API with Laravel for study case]()
-- [Codepolitan Learn Laravel for Role Management study case]()
-- [Codepolitan OAuth based API Authentication System using Laravel Passport]()
-- [Codepolitan Create Donation Online Website using Payment Gateway]()
-- [Codepolitan Build a Shipping cost check application with Laravel]()
+- Update here later
 
 ### 🤝 Connect with Me or Contact Me
 
