@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Introducing Myself
 
-Hello, I'm Yusuf Al Qardhawi. Junior Full Stack Developer at Web Design.
+Hello, I'm Yusuf Al Qardhawi. Currently WIP achieve as Junior Full Stack Web Developer.
 
 - Create responsive website design using framework libraries
 - Querying data using MySQL from website and input data users mostly
@@ -30,10 +30,11 @@ In this section where i showcase my [projects]()
 
 ### 🛠️ Tools
 
-- Language : Javascript, HTML, CSS, PHP
+- Programming Language : Javascript, HTML, CSS, PHP
 - Framework : React, Bootstrap, Laravel
-- Database : MySQL, HeidiSQL
-- Software Tools : Visual Studio Code, Laragon, GitBash
+- Database : MySQL and MariaDB
+- Software Tools : Visual Studio Code, Laragon, GitBash, MySQL Workbench
+- DevOps Tools : Update here later
 
 ### 🪪 Verified Certification and Additional Skills [ON-GOING]
 
