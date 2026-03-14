@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Introducing Myself
 
-Hello, I'm Yusuf Al Qardhawi. Currently WIP achieve as Junior Full Stack Web Developer.
+Hello, I'm Yusuf Al Qardhawi. Currently learn new thing and active as Full Stack Web Developer.
 
-- Create responsive website design using framework libraries
-- Querying data using MySQL from website and input data users mostly
-- Develop web application using Agile Methodology
-- Testing SQL Injection before upload into live server
+- Create responsive website with framework that supports server-side
+- Fetch data from database local or cloud and learning about how protect database from SQL Injection or XSS
+- Create and develop apps documentation using Agile Methodology 
+- Mostly i do working code and learn analogy by Copy other works > Analyze how does it work > Modified test > Write unique code myself or helps AI Agent Claude to brainstroming idea as Assistant not replacement
 
 ### 💼 Projects
 
@@ -33,8 +33,8 @@ In this section where i showcase my [projects]()
 - Programming Language : Javascript, HTML, CSS, PHP
 - Framework : React, Bootstrap, Laravel
 - Database : MySQL and MariaDB
-- Software Tools : Visual Studio Code, Laragon, GitBash, MySQL Workbench
-- DevOps Tools : Update here later
+- Software Tools : Visual Studio Code, Laragon, GitBash
+- DevOps Tools : Restful API, Cloudflare, Docker
 
 ### 🪪 Verified Certification and Additional Skills [ON-GOING]
 
